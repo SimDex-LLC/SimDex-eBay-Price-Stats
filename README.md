@@ -1,3 +1,4 @@
+![Icon](icon-128.png)
 # SimDex eBay Price Stats
 Google Chrome extension that shows item price statistics of all eBay listings on a single search results page.
 
@@ -12,3 +13,8 @@ eBay is a registered trademark of eBay Inc. eBay Price Stats and its developer, 
 
 # Credits
 Icon designed by Unicornlabs (https://www.flaticon.com/authors/uniconlabs).
+
+# Screenshots
+![Screenshot](screenshot-1.png)
+![Screenshot](screenshot-2.png)
+![Screenshot](screenshot-3.png)
