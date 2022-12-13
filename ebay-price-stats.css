@@ -1,0 +1,66 @@
+#ebay-price-stats
+{
+    font-size: 16px;
+    line-height: 1.5;
+
+    position: fixed;
+    z-index: 9999;
+    right: 0;
+    bottom: 0;
+
+    margin: 25px;
+    padding: 25px;
+
+    text-align: left;
+
+    color: #000;
+    border: 1px solid #e5e5e5;
+    border-radius: 5px;
+    background-color: #f5f5f5;
+    box-shadow: 0 5px 5px rgba(0, 0, 0, .5);
+}
+
+#ebay-price-stats h2
+{
+    font-size: 20px;
+
+    margin-top: 0;
+
+    text-align: center;
+}
+
+#ebay-price-stats table,
+#ebay-price-stats th,
+#ebay-price-stats td
+{
+    padding: 10px;
+
+    border-collapse: collapse;
+
+    border: 1px solid #e5e5e5;
+}
+
+#ebay-price-stats th
+{
+    font-weight: bold;
+
+    text-align: left;
+}
+
+#ebay-price-stats td
+{
+    text-align: right;
+}
+
+#ebay-price-stats .highlight
+{
+    font-weight: bold;
+
+    background-color: yellow;
+}
+
+.srp-results .s-item__price,
+.srp-results .s-item__shipping
+{
+    background-color: yellow;
+}
